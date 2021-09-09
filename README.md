@@ -3,7 +3,7 @@
 
 ## Description
 Note Taker can be used to write and save notes that uses Express.js back end and will save and retrieve note data from a JSON file. 
-![](true)
+![](C:\Users\nikki\Bootcamp\Note-Taker\Images\page.PNG)
 
 ## Table of Contents
 [Technologies](#technologies)
@@ -17,16 +17,22 @@ Note Taker can be used to write and save notes that uses Express.js back end and
 [Questions](#questions)
 
 ## Technologies
-* You are using a Linux, Mac or Windows machine.,* You have a basic understanding of javascript.
+* You are using a Linux, Mac or Windows machine.,* You have a basic
+  understanding of javascript.
+![](C:\Users\nikki\Bootcamp\Note-Taker\Images\code.PNG)
 
 ## Prerequisites
 CSS,HTML,JavaScript,Node.js
 
 ## Installation
-undefined
+To install this application: branch the Github Repo and clone the repo to your local machine. 
+If not already installed, you must install the node dependencies
+by running npm install command in your terminal. Once completed,
+you are ready to use the application!
 
 ## Usage
-local machine. If not already installed, you must install the node dependencies by running
+After installing the project, run the command node app.js in the command line and enter the employee information following the prompts.
+
 
 ## Licensing
 [APACHE] Licensed under the Apache License, Version 2.0(the 'License'); you may not use this file except in compliance with the License. You may obtain a copy of the License at 'http: //www.apache.org/licenses/LICENSE-2.0' Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
@@ -43,10 +49,6 @@ Contribute to README Generator
                 4. Push to the original branch: git push origin <project_name/<location>
                 5. Create the pull request.
                 Alternatively, see the Github documentation on creating a pull request.
-
-## Tests
-undefined
-![]()
 
 ## Acknowledgements
 TA's of the UC Davis Coding Bootcamp
