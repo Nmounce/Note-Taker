@@ -3,7 +3,7 @@
 
 ## Description
 Note Taker can be used to write and save notes that uses Express.js back end and will save and retrieve note data from a JSON file. 
-![](C:\Users\nikki\Bootcamp\Note-Taker\Images\page.PNG)
+![](Images/page.PNG)
 
 ## Table of Contents
 [Technologies](#technologies)
@@ -19,7 +19,7 @@ Note Taker can be used to write and save notes that uses Express.js back end and
 ## Technologies
 * You are using a Linux, Mac or Windows machine.,* You have a basic
   understanding of javascript.
-![](C:\Users\nikki\Bootcamp\Note-Taker\Images\code.PNG)
+![](Images/code.PNG)
 
 ## Prerequisites
 CSS,HTML,JavaScript,Node.js
